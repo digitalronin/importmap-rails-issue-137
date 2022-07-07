@@ -1,24 +1,6 @@
-# README
+# Rails app. to demonstrate [this issue](https://github.com/rails/importmap-rails/issues/137)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app. runs in a docker compose environment created via this [rails from scratch](https://github.com/digitalronin/rails-from-scratch) project.
 
-Things you may want to cover:
+To launch the app, run: `make up`
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
