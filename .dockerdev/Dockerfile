@@ -12,6 +12,7 @@ RUN apt-get update -qq \
     gnupg2 \
     curl \
     less \
+    vim \
     git \
   && apt-get clean \
   && rm -rf /var/cache/apt/archives/* \
